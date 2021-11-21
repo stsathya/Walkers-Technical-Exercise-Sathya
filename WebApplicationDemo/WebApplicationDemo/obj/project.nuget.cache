@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "by56w/o587P4dx8xPClPguxJQsgGpyoZm1DZ4b/feJ8CPtmTAiJ0wSlAHV45TKN2fEpdfhoOfPPO4GzB6fjQ9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sasee\\OneDrive\\Documents\\WalkersGlobal Interview\\Walkers-Technical-Exercise-Sathya\\WebApplicationDemo\\WebApplicationDemo\\WebApplicationDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sasee\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
