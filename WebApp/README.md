@@ -1,1 +1,0 @@
-# Walkers-Technical-Exercise-Sathya
